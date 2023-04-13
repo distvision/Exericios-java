@@ -1,0 +1,113 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "triangulo",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.triangulo",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "tabuadaquadrada",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.tabuadaquadrada",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "tabuadaDaminhaIdade",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.tabuadaDaminhaIdade",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "todosPares",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.todosPares",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "aprovadoReprovado",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.aprovadoReprovado",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "IdadesEmOrdem",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.IdadesEmOrdem",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "parOuImpar",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.parOuImpar",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "tabelasemJtable",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.tabelasemJtable",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "tabela",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.tabela",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "imprimirMedia",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.imprimirMedia",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "imprimirNome",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.imprimirNome",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "salario",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex2.salario",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "idade",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex2.idade",
+      "projectName": "Java_f3ef829e",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "retangulo",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex2.retangulo",
+      "projectName": "Java_f3ef829e"
+    }
+  ]
+}
