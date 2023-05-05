@@ -6,18 +6,16 @@ public class triangulo {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.println("Digite os numeros do lado");
-    int lad1 = sc.nextInt();
-    int lad2 = sc.nextInt();
-    int lad3 = sc.nextInt();
+    int lado1 = sc.nextInt();
+    int lado2 = sc.nextInt();
+    int lado3 = sc.nextInt();
 
-    if (lad1 != lad2 && lad1 != lad3 && lad2 != lad3) {
-      System.out.println("O tipo de lado é escaleno");
+    if (lado1 == lado2 && lado1 == lado3) {
+      System.out.println("Este é um triângulo equilátero.");
+    } else if (lado1 == lado2 || lado1 == lado3 || lado2 == lado3) {
+      System.out.println("Este é um triângulo isósceles.");
     } else {
-      System.out.println("equilatero");
-    }
-
-    if ((lad1 == lad2 && lad2 == lad3 && lad1 == lad3) || (lad1 != lad3 && lad2 != lad3 && lad1 != lad2)) {
-      System.out.println("isósceles");
+      System.out.println("Este é um triângulo escaleno.");
     }
 
     sc.close();

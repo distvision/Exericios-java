@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "stringsRegex",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.stringsRegex",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "conversaoDeTipos",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.testes.conversaoDeTipos",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "coversaoEstuturaCodiparaSele",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.testes.coversaoEstuturaCodiparaSele",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "num123_2022",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.testes.num123_2022",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
       "name": "triangulo",
       "request": "launch",
       "mainClass": "com.poo1.exercicios.ex3.triangulo",
