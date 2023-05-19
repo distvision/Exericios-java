@@ -6,6 +6,118 @@
   "configurations": [
     {
       "type": "java",
+      "name": "exemploErro",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.exemploErro",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "ExemploExcecaoPersonalizada",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.excecaopers.ExemploExcecaoPersonalizada",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "Exemplo1finally",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.Exemplo1finally",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exemplofinally",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.exemplofinally",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "multiploscatch",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.multiploscatch",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exemplo4ArrayIndexOutOfBoundsException",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.exemplo4ArrayIndexOutOfBoundsException",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exemplo3NumberFormatException",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.exemplo3NumberFormatException",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exemplo2NullPointerException",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.exemplo2NullPointerException",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exemplo1ArithmeticException",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.exemplo1ArithmeticException",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exemploExcecaoSoma",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.exemploExcecaoSoma",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "soma",
+      "request": "launch",
+      "mainClass": "com.poo1.exercicios.ex3.soma",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exemplo",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.testes.exemplo",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "Matrzes",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.Matrzes",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "ElementosIguais2",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.exercicios.ElementosIguais2",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "ElementosIguais",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.exercicios.ElementosIguais",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.Arrays",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
       "name": "stringsRegex",
       "request": "launch",
       "mainClass": "com.poo1.exercicios.ex3.stringsRegex",
