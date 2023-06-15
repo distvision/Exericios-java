@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "exer1",
+      "request": "launch",
+      "mainClass": "com.cursojava.matrizes.exercicios.exer1",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "ArraysIrregulares",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.ArraysIrregulares",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exer15",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.exercicios.exer15",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exerc14",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.exercicios.exerc14",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exrc13",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.exercicios.exrc13",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exer12",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.exercicios.exer12",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "Exer11",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.exercicios.Exer11",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "quadrado",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.testes.quadrado",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "minusculos",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.testes.minusculos",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "prova",
+      "request": "launch",
+      "mainClass": "com.cursojava.arrays.prova",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "throwsException",
+      "request": "launch",
+      "mainClass": "com.poo1.trabalho.throwsException",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
       "name": "exemploErro",
       "request": "launch",
       "mainClass": "com.poo1.trabalho.exemploErro",
