@@ -4,6 +4,10 @@ import java.util.Random;
 
 public class exer1 {
   public static void main(String[] args) {
+    /**
+     * Gere e imprima uma matriz M 4X4 com valores aleatórios entre 0-9.
+     * Apos isso determina o maior numero da matriz e sua posiçao (linha, coluna).
+     */
 
     int[][] numAleatorios = new int[4][4];
 
