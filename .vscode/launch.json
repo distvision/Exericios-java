@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "exer4",
+      "request": "launch",
+      "mainClass": "com.cursojava.matrizes.exercicios.exer4",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "exer3",
+      "request": "launch",
+      "mainClass": "com.cursojava.matrizes.exercicios.exer3",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
       "name": "exer2",
       "request": "launch",
       "mainClass": "com.cursojava.matrizes.exercicios.exer2",
