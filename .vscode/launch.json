@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "palindromo",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.palindromo",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "CalcularFatorial",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.CalcularFatorial",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "JogoAdivinhacao",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.JogoAdivinhacao",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "RemoverDuplicados",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.RemoverDuplicados",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "ImprimirPiramide",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.ImprimirPiramide",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "calcularExpSemMetodos",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.calcularExpSemMetodos",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "piramide",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.piramide",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
       "name": "exer4",
       "request": "launch",
       "mainClass": "com.cursojava.matrizes.exercicios.exer4",
