@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BinaryTriangle",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.BinaryTriangle",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "SimpleCalculator",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.SimpleCalculator",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
+      "name": "PrintCharacters",
+      "request": "launch",
+      "mainClass": "com.poo1.preparacao.exames.PrintCharacters",
+      "projectName": "Java_f3ef829e"
+    },
+    {
+      "type": "java",
       "name": "palindromo",
       "request": "launch",
       "mainClass": "com.poo1.preparacao.exames.palindromo",
